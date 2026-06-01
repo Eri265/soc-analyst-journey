@@ -1,0 +1,33 @@
+Endpoint Detection and Response (EDR) 
+
+EDR is a a security solution that offers deep level protection for endpoints. It uses advanced algorithms to detect irregular behaviours.
+The main features of an EDR are: 
+1. Visibility
+2. Detection
+3. Response
+
+EDR's detect and responds to threats automatically in real time.
+
+An EDR also gives severity to alerts. It is the EDR that determines whether an alert is critical, high or low.
+
+An antivirus can also detect some bascic threats but to detect advanced threats we need an EDR.
+But how will an EDR protect against threats we have never seen before?
+
+Let me use this analogy to explain.
+
+Imagine an airport is an endpoint that needs protection. The first layer of protection is the immigration check. Let us liken
+this to an antivirus. The immigration check monitors incoming people and matches their passports with a list of known criminals 
+in its database. If there is a match, the entry is blocked. That seems like a good security protection.
+But what happens if somebody who has no criminal history and is innocent looking tries to come in? The immigration check will let him in. 
+Now, what if this innocent person is a thief that knows how to bypass basic security?
+
+This is where an EDR comes in.
+An EDR in this analogy would be the security officers stationed inside the airport. These security officers would constantly 
+monitor the security cameras in the airport to see if there is anyone showcasing irregular behaviours. 
+That is exactly how an EDR detects threats that are new and that have bypassed the basic antivirus security.
+
+An example of an EDR tool is CrowdStrike Falcon while example of an antivirus is McAfee Endpoint Security. 
+
+Note: No EDR tool will stop 100 percent of attacks but by capturing lots of security relevant information, it can help security
+teams understand how attacks were successful and how to change their approach to ensure they are detected and blocked in the 
+future.
