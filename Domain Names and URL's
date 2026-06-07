@@ -1,0 +1,15 @@
+A domain name and a URL are related but are not the same thing. Here is the difference
+
+A domain name is just one part of a URL. A URL(Unifrom Resource Locator) is the full address used to reach a specific resource on 
+the web.
+For example:
+https://github.com
+
+https:// — the protocol
+github.com — the domain name
+So the domain name is github.com but the full URL is the entire string.
+
+Here is an analogy that will help us understand better:
+Imagine the internet were a city, the domain name is like a building's street address (e.g., 23 Budland Street),while
+the URL is the full directions including which floor and room you're going to. Every URL contains a domain name, but a domain
+name alone is not a full URL.
